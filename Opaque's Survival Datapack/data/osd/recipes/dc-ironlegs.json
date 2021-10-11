@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "minecraft:diamond_leggings"
+            "item": "minecraft:iron_leggings"
         }
     ],
     "result": {
