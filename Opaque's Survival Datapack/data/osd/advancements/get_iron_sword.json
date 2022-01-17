@@ -1,0 +1,38 @@
+{
+    "parent": "minecraft:story/smelt_iron",
+    "display": {
+      "icon": {
+        "item": "minecraft:iron_sword",
+        "nbt": "{Damage:0}"
+      },
+      "title": {
+        "translate": "The Iron Blade"
+      },
+      "description": {
+        "translate": "Obtain an iron sword!"
+      },
+      "frame": "task",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "criteria": {
+      "minecraft:iron_sword": {
+        "trigger": "minecraft:inventory_changed",
+        "conditions": {
+          "items": [
+            {
+              "items": [
+                "minecraft:iron_sword"
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "requirements": [
+      [
+        "minecraft:iron_sword"
+      ]
+    ]
+  }

@@ -1,0 +1,38 @@
+{
+  "parent": "osd:get_diamond_pick",
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_pickaxe",
+      "nbt": "{Damage:0}"
+    },
+    "title": {
+      "translate": "The Best Pickaxe"
+    },
+    "description": {
+      "translate": "Get ahold of a netherite pickaxe!"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "netherite_pickaxe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:netherite_pickaxe"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "netherite_pickaxe"
+    ]
+  ]
+}
