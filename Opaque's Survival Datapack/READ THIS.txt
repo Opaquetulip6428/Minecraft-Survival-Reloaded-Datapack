@@ -1,0 +1,56 @@
+Hello there. This datapack is made by Opaquetulip6428. This is open source, so feel free to modify it in any way you like. Credit isn't required but is always appreciated. Have fun! :)
+
+https://www.youtube.com/channel/UC6GD6_5rf5Pe42kiqU3KQ-w
+
+https://www.roblox.com/users/901385328/profile
+
+https://twitter.com/opaquetulip6428
+
+https://discord.gg/Sg3Qw2F
+
+For caves and cliffs pre-1.18:
+
+Lush Caves and dripstone features:
+
+"minecraft:rare_dripstone_cluster",
+"minecraft:rare_small_dripstone",
+"minecraft:lush_caves_clay",
+"minecraft:large_dripstone",
+"minecraft:moss_patch",
+"minecraft:moss_vegetation",
+"minecraft:clay_with_dripleaves",
+"minecraft:cave_vine",
+"minecraft:cave_vine_in_moss"
+
+"minecraft:lush_caves_clay",
+"minecraft:moss_patch",
+"minecraft:moss_patch_bonemeal",
+"minecraft:moss_patch_ceiling",
+"minecraft:moss_vegetation",
+"minecraft:cave_vine",
+"minecraft:cave_vine_in_moss",
+"minecraft:large_dripstone"
+
+"minecraft:large_dripstone",
+"minecraft:rare_dripstone_cluster",
+"minecraft:rare_small_dripstone"
+
+Ore Features
+
+Default
+
+"minecraft:ore_gravel",
+"minecraft:ore_granite",
+"minecraft:ore_diorite",
+"minecraft:ore_andesite",
+"minecraft:ore_tuff",
+"minecraft:ore_coal",
+"minecraft:ore_iron",
+"minecraft:ore_gold",
+"minecraft:ore_redstone",
+"minecraft:ore_diamond",
+"minecraft:ore_lapis",
+"minecraft:ore_copper",
+"minecraft:disk_sand",
+"minecraft:disk_clay",
+"minecraft:disk_gravel"
